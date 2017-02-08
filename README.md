@@ -1,2 +1,5 @@
-# tdt4240
-TDT4240 PROGRAMVAREARKITEKTUR VÅR 2017
+# TDT4240 Programvarearkitektur Vår 2017
+
+</br>
+Øvinger og annet arbeid. Uviklet i Java(eclipse)
+</br>
